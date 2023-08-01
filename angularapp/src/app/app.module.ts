@@ -6,7 +6,7 @@ import { AppComponent } from './app.component';
 import { HeaderComponent } from './component/header/header.component';
 import { FooterComponent } from './component/footer/footer.component';
 import { NewFoodComponent } from './component/new-food/new-food.component';
-import { TodayComponent } from './today/today/today.component';
+import { TodayComponent } from './today/today.component';
 
 @NgModule({
   declarations: [
